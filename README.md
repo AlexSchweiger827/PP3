@@ -93,7 +93,6 @@ Each of these elements can have attributes to define their appearance and positi
 
 #### Example
 
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      version="1.1"
@@ -113,7 +112,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
 <summary>Your SVG Code</summary>
-<code>
+
 ```xml
 <svg xmlns="http://www.w3.org/2000/svg"
      version="1.1"
@@ -125,7 +124,6 @@ For more detailed information on SVG structure and elements, you can refer to th
 <circle cx="1" cy="6" r="10" fill="blue"/>
 <line x1="-30" y1="-25" x2="-4" y2="-25" stroke-width="2" stroke="green"/>
 </svg>
-</code>
 </details>
 
 ### Task 2: Markdown
