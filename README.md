@@ -112,9 +112,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
 <summary>Your SVG Code</summary>
-</details>
-```xml
-<svg xmlns="http://www.w3.org/2000/svg"
+     <svg xmlns="http://www.w3.org/2000/svg"
      version="1.1"
      width="800mm" height="600mm"
      viewBox="-400 -300 800 600">
@@ -125,7 +123,8 @@ For more detailed information on SVG structure and elements, you can refer to th
 <line x1="-30" y1="-25" x2="-4" y2="-25" stroke-width="2" stroke="green"/>
 </svg>
 
-
+</details>
+```xml
 
 ### Task 2: Markdown
 You have already discovered _markdown_ in these `README.md` files. 
