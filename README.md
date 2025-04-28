@@ -111,6 +111,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 **Install vim on your local machine and open a new file, called `example.svg`. Write the SVG-code to include a straight line, a circle and a rectangle. When done, use your browser to open the file.**
 
 <details>
+<code>
 <summary>Your SVG Code</summary>
 
 ```xml
@@ -125,7 +126,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 <line x1="-30" y1="-25" x2="-4" y2="-25" stroke-width="2" stroke="green"/>
 </svg>
 </details>
-</details>
+</code>
 ### Task 2: Markdown
 You have already discovered _markdown_ in these `README.md` files. 
 It is an easy and lightweight syntax, to instruct a display software to render text in a given way.
