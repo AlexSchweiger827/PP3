@@ -114,6 +114,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
 <summary>Your SVG Code</summary>
 <code>
+```xml
 <svg xmlns="http://www.w3.org/2000/svg"
      version="1.1"
      width="800mm" height="600mm"
