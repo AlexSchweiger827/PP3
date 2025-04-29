@@ -112,15 +112,15 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
      
-svg xmlns="http://www.w3.org/2000/svg"
-version="1.1"
-width="800mm" height="600mm"
-viewBox="-400 -300 800 600">
-title>example.svg</title>
-rect x="-50" y="-50" width="20" height="25" fill="red" />
-circle cx="1" cy="6" r="10" fill="blue"/>
-line x1="-30" y1="-25" x2="-4" y2="-25" stroke-width="2" stroke="green"/>
-/svg>
+svg xmlns="http://www.w3.org/2000/svg"  
+version="1.1"  
+width="800mm" height="600mm"  
+viewBox="-400 -300 800 600">  
+title>example.svg</title>  
+rect x="-50" y="-50" width="20" height="25" fill="red" />  
+circle cx="1" cy="6" r="10" fill="blue"/>  
+line x1="-30" y1="-25" x2="-4" y2="-25" stroke-width="2" stroke="green"/>  
+/svg>  
 
 </details>
 
