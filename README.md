@@ -127,7 +127,7 @@ For more detailed information on SVG structure and elements, you can refer to th
        
 ```
 </details>
-
+### Test
 ### Task 2: Markdown
 You have already discovered _markdown_ in these `README.md` files. 
 It is an easy and lightweight syntax, to instruct a display software to render text in a given way.
@@ -136,7 +136,7 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-   Hello ##Hello ###Hello 
+
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
