@@ -156,18 +156,19 @@ The hashes (<code>#</code>) change the format of the text on the display. You ca
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
     You can create listings and tables with the symbols "|" and "-".
-         For example:
-         
-  | Header 1 | Header 2 |
-  | Content1 | Content2 |
-  | Content3 | Content4 |
+         For example:         
+| Header 1      | Header 2      |
+| ------------- | ------------- |
+| Content2      | Content2      |
+| Content3      | Content4      |    
+
          
     You can see the resutlt below.      
     
-| Header 1 | Header 2 |
-|----------|----------|
-| Content1 | Content2 |
-| Content3 | Content4 |
+| Header 1      | Header 2      |
+| ------------- | ------------- |
+| Content2      | Content2      |
+| Content3      | Content4      |    
 
     </code>
 
