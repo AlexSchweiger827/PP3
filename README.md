@@ -160,7 +160,7 @@ For example:
          
      | Header 1      | Header 2      |
      | ------------- | ------------- |
-     | Content2      | Content2      |
+     | Content1      | Content2      |
      | Content3      | Content4      | 
 
 to align the header you use the symbol ":".
@@ -169,7 +169,7 @@ For example:
 
      | Header 1      | Header 2      |
      | :-----------  | -----------:  |
-     | Content2      | Content2      |
+     | Content1      | Content2      |
      | Content3      | Content4      | 
 </code>
          
@@ -178,7 +178,7 @@ You can see the resutlt below.
 
 | Header 1      | Header 2      |
 | :------------ | ------------: |
-| Content2      | Content2      |
+| Content1      | Content2      |
 | Content3      | Content4      |   
     
 </details>
