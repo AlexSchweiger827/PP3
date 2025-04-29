@@ -143,8 +143,12 @@ The hashes (<code>#</code>) change the format of the text on the display. You ca
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-     *italic*
-    **bold**
+           
+  _italic_
+  for italic you use the symbols _ _ or **. Between the symbols is your text.
+
+  **bold**
+  for bold text you use the symbols ** ** or __ __. Between the symbols is your text.
          
     </code>
 </details>
