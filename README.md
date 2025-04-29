@@ -132,13 +132,14 @@ For more detailed information on SVG structure and elements, you can refer to th
 You have already discovered _markdown_ in these `README.md` files. 
 It is an easy and lightweight syntax, to instruct a display software to render text in a given way.
 
-##### Example
+
 **Answer the following questions:**
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-It format the 
+The hashes (<code>#</code>) change the format of the text on the display. You can subdivide the Text between headlines and subitems.
 </details>
+
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
