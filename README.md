@@ -178,7 +178,8 @@ You can see the resutlts below.
 | Header 1      | Header 2      |   
 | ------------- | ------------- |
 | Content2      | Content2      |
-| Content3      | Content4      |    
+| Content3      | Content4      |
+
 
 | Header 1      | Header 2      |
 | :------------ | ------------: |
