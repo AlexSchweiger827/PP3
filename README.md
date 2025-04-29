@@ -160,17 +160,16 @@ The hashes (<code>#</code>) change the format of the text on the display. You ca
 | Header 1      | Header 2      |
 | ------------- | ------------- |
 | Content2      | Content2      |
-| Content3      | Content4      |    
-
+| Content3      | Content4      | 
          
-    You can see the resutlt below.      
+    </code>
+         
+You can see the resutlt below.      
     
 | Header 1      | Header 2      |
 | ------------- | ------------- |
 | Content2      | Content2      |
 | Content3      | Content4      |    
-
-    </code>
 
     
 </details>
