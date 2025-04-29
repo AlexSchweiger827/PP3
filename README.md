@@ -155,8 +155,22 @@ The hashes (<code>#</code>) change the format of the text on the display. You ca
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+    You can create listings and tables with the symbols "|" and "-".
+         For example:
+         | Header 1| Header 2|
+         |---------|---------|
+         |Content 1|Content 2|
+         |Content 3|Content 4|
+         
+    You can see the resutlt below.      
     </code>
+    
+         | Header 1| Header 2|
+         |---------|---------|
+         |Content 1|Content 2|
+         |Content 3|Content 4|
+
+    
 </details>
 
 ### Task 3: LaTeX
