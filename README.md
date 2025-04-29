@@ -158,10 +158,10 @@ The hashes (<code>#</code>) change the format of the text on the display. You ca
     You can create listings and tables with the symbols "|" and "-".
          For example:
          
-| Decimal | Binary Representation |
-|---------|-----------------------|
-| 0       | 0000                  |
-| 1       | 0001                  |
+| Header 1 | Header 2 |
+|----------|----------|
+| Content1 | Content2 |
+| Content3 | Content4 |
          
     You can see the resutlt below.      
     </code>
