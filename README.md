@@ -136,7 +136,7 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+   Hello ##Hello ###Hello 
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
