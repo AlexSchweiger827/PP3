@@ -327,3 +327,4 @@ If you are running in WSL, make sure to install the `w3m` browser before by exec
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
+I did Task 1-4. It took me 100 minutes and 43 seconds because I had problems with task 2. 
