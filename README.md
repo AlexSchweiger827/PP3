@@ -257,7 +257,7 @@ Now the name is changed from "example.pdf.pdf to newname.pdf.pdf
 <details>
     <summary>What changes in your pdf, if you change the documentclass to <code>book</code></summary>
      
-    The title and author went down to the middle of the sheet. 
+    The title, author and date went down to the middle of the sheet. 
     
 </details>
 <details>
