@@ -257,12 +257,12 @@ Now the name is changed from "example.pdf.pdf to newname.pdf.pdf
 <details>
     <summary>What changes in your pdf, if you change the documentclass to <code>book</code></summary>
      
-    The title, author and date went down to the middle of the sheet. 
+    The title, author and date went down to the middle of the sheet. The text "Hello World" is now on the second sheet. 
     
 </details>
 <details>
     <summary>What changes in your pdf, if you add <code>\section{Intro}</code> after <code>\maketitle</code></summary>
-    ......
+    The section "1 Intro" appeared on the second sheet above the text "Hello World!"
 </details>
 
 
